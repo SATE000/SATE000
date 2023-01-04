@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 대림대학교
-컴퓨터 정보학부 19
+컴퓨터 정보학부 
