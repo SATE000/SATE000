@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 대림대학교
 컴퓨터 정보학부 
+
+### Repository 가벼운 설명
+<br/>
+1. python_study : 교내동아리 활동을 통해 python에 대해 가볍게 배운 내용들을 정리한 Repository
+<br/>
+2. BaekJoon_hub : 백준 온라인 사이트에서 푼 문제들을 티어별로 정리해둔 Repository
+<br/>
+3. BeforeHanium : 스프링을 공부한 내용들을 정리해둔 Repository
+<br/>
