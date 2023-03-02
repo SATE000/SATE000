@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 대림대학교
-컴퓨터 정보학부 
+컴퓨터 정보학부 <br/>
+
+velog 주소 : [SATE-000](https://velog.io/@sate-000)<br/>
 
 ### Repository 가벼운 설명
 <br/>
