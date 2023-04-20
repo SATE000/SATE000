@@ -26,9 +26,6 @@ velog 주소 : [SATE-000](https://velog.io/@sate-000)<br/>
 <br/>
 3. 23-React1 : 학교에서 배운 React 내용들을 정리한 Repository
 <br/>
-
-* * *
-
-인프런의 김영한님의 강의들을 보면서 공부한 내용들을 정리해둔 Repository
-1. BeforeHanium
-2. Study_Spring
+4. BeforeHanium : 스프링 공부1
+<br/>
+5. Study_Spring : 스프링 공부2
